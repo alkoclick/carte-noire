@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "carte-noire-cern"
+  spec.name          = "jekyll-theme-cern-noire"
   spec.version       = "0.1.0"
   spec.authors       = ["Alexander Papageorgiou Koufidis"]
   spec.email         = ["alexander.papageorgiou@cern.ch"]
